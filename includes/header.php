@@ -1,7 +1,7 @@
 <div class="header">
 		<div class="header_left">
 			<ul>
-				<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>New Delhi</li>
+				<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Brampton</li>
 				<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+123 456 7890</li>
 			</ul>
 		</div>
